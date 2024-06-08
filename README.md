@@ -2,9 +2,9 @@
 
 Basic TypeScript assignments I performed as a first step of programming learning. [Assingnment list](https://git.sr.ht/~disolovyov/assignments).
 
-Each solution is accompanied by a short comment with the original assignment.
+Each solution is accompanied by a short comment with the original assignment text.
 
-### The following topics are included:
+### The following topics are included (in order of execution):
 
 * Basics
 * Conditionals
