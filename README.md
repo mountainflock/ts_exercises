@@ -1,7 +1,6 @@
 # TypeScript assignments
 
-Basic TypeScript assignments I performed as a first step of programming learning. Each solution is accompanied by a short comment with the original assignment text. [Assignment list](https://git.sr.ht/~disolovyov/assignments).
-
+Basic TypeScript assignments I performed as a first step of learning to code. Each solution is accompanied by a short comment with the original assignment text. [Assignment list](https://git.sr.ht/~disolovyov/assignments).
 
 ### Includes the following topics (in order of execution):
 
@@ -21,7 +20,7 @@ Install Deno according to the [instructions](https://docs.deno.com/runtime/manua
 ### Run each file: 
 
 ```sh
-deno run *file name*
+deno run <file name>
 ```
 
 ## Technologies used:
